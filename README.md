@@ -8,7 +8,7 @@ Now, we are working on better summarization, world-state management, character s
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/erowe-projects/ai_chat_game
 
 # Create and activate virtual environment
 python -m venv venv
